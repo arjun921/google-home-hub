@@ -10,3 +10,7 @@ Why did we building this? Cause we're broke engineers who can build it instead o
 
 #### Minor Features
  - [ ] Auto refresh data
+
+#### Inspiration/References
+ - Lock - https://res.cloudinary.com/gear/image/fetch/f_auto,q_auto,fl_lossy/https://www.mysmartprice.com/gear/wp-content/uploads/2018/09/Google-Home-Hub-696x435.png
+ - 
