@@ -13,4 +13,5 @@ Why did we building this? Cause we're broke engineers who can build it instead o
 
 #### Inspiration/References
  - Lock - https://res.cloudinary.com/gear/image/fetch/f_auto,q_auto,fl_lossy/https://www.mysmartprice.com/gear/wp-content/uploads/2018/09/Google-Home-Hub-696x435.png
+ - Homescreen - https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBQv6SN.img?h=624&w=624&m=6&q=60&o=f&l=f
  - 
